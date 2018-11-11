@@ -1,0 +1,8 @@
+  A     B     C     D     J     K     L     
+A False True  True  True  False False False 
+B False True  True  True  False False False 
+C False True  True  True  False False False 
+D False False False False False False False 
+J False False False False False True  True  
+K False False False False False False False 
+L False False False False False False False 
